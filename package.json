@@ -1,0 +1,27 @@
+{
+  "name": "@jlongyam/logger",
+  "version": "0.1.0",
+  "description": "Cross environment logger",
+  "keywords": [
+    "logger",
+    "node-logger",
+    "html-logger",
+    "html-console",
+    "console-alternative"
+  ],
+  "homepage": "https://github.com/jlongyam/logger#readme",
+  "bugs": {
+    "url": "https://github.com/jlongyam/logger/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlongyam/logger.git"
+  },
+  "license": "MIT",
+  "author": "jlongyam",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo NO_TEST_YET"
+  }
+}
