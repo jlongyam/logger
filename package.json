@@ -19,7 +19,7 @@
   },
   "license": "MIT",
   "author": "jlongyam",
-  "type": "module",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo NO_TEST_YET"
